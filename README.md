@@ -2,7 +2,7 @@
 
 # nerdwz
 
-*still figuring out life, but my code compiles ✅*
+*still figuring out life, but my code compiles 🧠*
 
 <br/>
 
