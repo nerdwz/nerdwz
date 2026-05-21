@@ -32,9 +32,7 @@ class Skills extends Desenvolvedor {
 
 <br/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nerdwz&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerdwz&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=nerdwz&theme=tokyonight&hide_border=true)
 
 <br/>
 
